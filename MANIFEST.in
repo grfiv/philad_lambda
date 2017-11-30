@@ -1,0 +1,2 @@
+graft philad_lambda/templates
+graft philad_lambda/static
